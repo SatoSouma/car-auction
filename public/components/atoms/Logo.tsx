@@ -1,5 +1,5 @@
 import { VFC } from 'react'
-import { Text, Link, Box } from '@chakra-ui/react'
+import { Link, Box } from '@chakra-ui/react'
 import Image from 'next/image'
 // import Link from 'next/link'
 
